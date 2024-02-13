@@ -1,8 +1,8 @@
 .logo {
-	 float: left;
+	 text-align: center;
 }
  nav {
-	 float: right;
+	 text-align: center;
 }
  nav ul {
 	 margin: 0;
@@ -10,17 +10,16 @@
 	 list-style: none;
 }
  nav li {
-	 display: inline-block;
+	 display: inline-table;
 }
- body {
-	 background: #000000;
-	 color: #fff;
+body {
+	background:linear-gradient(to right, #E2BCBB, #E4514A )
 }
  a {
 	 color: #808000
 }
  h1 {
-	 color: #008080
+	 color: #501501
 }
  p {
 	 color: #008000
